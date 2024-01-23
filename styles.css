@@ -48,14 +48,14 @@ h1 {
     overflow: hidden;
 }
 
-.card img {
+.carte img {
     width: 100%;
     height: auto;
     visibility: hidden; /* Hide images by default */
     display: block;
 }
 
-.card.show img {
+.carte.show img {
     visibility: visible; /* Show image when card is flipped */
 }
 
